@@ -1,8 +1,7 @@
 ﻿Project - "Malware Detection On Linux Systems Using Structural Analysis of ELF (executable-linkable-file) and Classification Algorithm"
 
-The project was conducted under limited resources provided by the university I graduated from due to high volume of machine learning projects
-approved by the university and it was impossible to include all 200+ attributes of 15k+ files to the training set.
-This project requires considerable hardware resources to be a fully developed application.
+It was impossible under limited hardware resources to include all 200+ attributes of 15k+ files to the training set.
+This project requires considerable hardware resources and software enhancements to be a fully developed application.
 
 WARNING !!! - The directory MDS contains actual MALWARE file that can cause system FAILURE. DO NOT EXECUTE the file names starting with "Virus_".
 	      These files are only to be used as parameters in the program "LimDS.sh"
