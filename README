@@ -1,4 +1,4 @@
-﻿Project - "Malware Detection On Linux Systems Using Structural Analysis of ELF (executable-linkable-file) and Classification Algorithm"
+﻿Project - "Malware Detection On Linux Systems Using Structural Analysis of ELF(executable-linkable-file) and Machine Learning(Classification Algorithm)"
 
 It was impossible under limited hardware resources to include all 200+ attributes of 15k+ files to the training set.
 This project requires considerable hardware resources and software enhancements to be a fully developed application.
